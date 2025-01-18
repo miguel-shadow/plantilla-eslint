@@ -1,5 +1,5 @@
 # 1. ESLint
-Configuración de ***ESLint*** y ***ESLint Stylistic*** para proyectos de ***Node JS***
+Configuración personalizada de ***ESLint*** y ***ESLint Stylistic*** para proyectos de ***Node JS***
 
 
 ## 1.1. Instalación
@@ -51,11 +51,11 @@ Se puede instalar mediante cualquier gestor de paquetes de Node JS. En este caso
     }
     ```
 
-    > [!TIP]
-    > Para **ejecutar** los scripts: `pnpm run lint` y `pnpm run lint-f`
+> [!TIP]
+> Para **ejecutar** los scripts: `pnpm lint` y `pnpm lint-f`
 
-    > [!NOTE]
-    > Ejemplo de `package.json`: [ver ejemplo package.json](package.json)
+> [!NOTE]
+> Ejemplo de `package.json`: [ver ejemplo package.json](package.json)
 
 
 ## 1.3. VS Code
